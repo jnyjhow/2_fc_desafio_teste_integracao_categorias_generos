@@ -10,6 +10,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+.vscode
 
 .docker/dbdata
 tutorial.md
@@ -19,3 +20,4 @@ tutorial.md
 _ide_helper_models.php
 _ide_helper.php
 .phpstorm.meta.php
+.vscode/launch.json
